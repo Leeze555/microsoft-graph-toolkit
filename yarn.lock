@@ -4572,9 +4572,9 @@ __metadata:
   linkType: hard
 
 "@microsoft/fast-element@npm:^1.11.1, @microsoft/fast-element@npm:^1.12.0":
-  version: 1.12.0
-  resolution: "@microsoft/fast-element@npm:1.12.0"
-  checksum: 10/57ac8198a735b0f638f618019bfd0572f357bb80e2d5f1d7e07febe9d2f976c1fb5f069ba870c0f00b3312789455007e2691a72872ddf96c748adc522eb74878
+  version: 1.13.0
+  resolution: "@microsoft/fast-element@npm:1.13.0"
+  checksum: 10/95be5e1e1a4ceeb74589268a3e7f7e41991459b2efa7bb28ecf4cda46d5ba3992f0fd6bbfa5df1aa5316ccd183846649d900525f199f56acaf3f3f1a269981fb
   languageName: node
   linkType: hard
 
